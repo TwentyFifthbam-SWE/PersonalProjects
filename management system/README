@@ -1,0 +1,95 @@
+
+---
+
+# Gunpla Tracker
+
+## Overview
+
+**Gunpla Tracker** is a web-based tool that helps Gunpla enthusiasts track their Gunpla models. With this tracker, you can add, remove, and update the status of your models, as well as maintain a wishlist of future Gunpla models you want to acquire. It is designed to be user-friendly, intuitive, and easy to navigate.
+
+---
+
+## Features
+
+- **Add/Remove Gunpla Models**: Easily manage the Gunpla models in your collection.
+- **Model Status**: Track the status of each model (e.g., Completed, In Progress, Not Started).
+- **Wishlist**: Maintain a wishlist of models you want to get in the future.
+- **Responsive Design**: Works on both desktop and mobile devices.
+
+---
+
+## Technologies Used
+
+- **HTML5**: For structure and content.
+- **CSS3**: For styling and layout.
+- **JavaScript**: For interactivity and dynamic functionality.
+- **LocalStorage**: To store the Gunpla models and wishlist locally in the browser (optional).
+- **Optional Frameworks**: Could be extended with libraries like Bootstrap for responsive design or jQuery for DOM manipulation.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- A modern web browser (e.g., Google Chrome, Firefox, Safari).
+- No server setup required (local storage can be used).
+
+### Installation
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/yourusername/gunpla-tracker.git
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd gunpla-tracker
+    ```
+
+3. **Open the project in your browser**:
+
+    Simply open the `gunpla.html` file in your web browser to view and interact with the application.
+
+---
+
+## Usage
+
+- On the main page, you will see a list of your current Gunpla models, along with their status.
+- You can **add** a new model by clicking the "Add Gunpla" button, which will take you to a form to input the model's details (e.g., name, model number, and status).
+- You can **remove** any model by selecting it from the list and clicking "Remove".
+- Use the **Wishlist** feature to add Gunpla models you wish to acquire in the future.
+
+---
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Here are the basic steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes and commit (`git commit -am 'Add new feature'`).
+4. Push to your branch (`git push origin feature-name`).
+5. Submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: Joshuaharvey2010@gmail.com
+- **GitHub**: [https://github.com/yourusername](https://github.com/twentyfifthbam-swe)
+
+---
+
+### Notes
+please feel free to add any advice/coments and recommendations just please remain respectful Thank you 
