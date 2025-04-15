@@ -133,8 +133,10 @@
     <ClInclude Include="Gunpla.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="add\remove.html" />
     <None Include="Gunpla.css" />
     <None Include="GunplaTracker.html" />
+    <None Include="updateprogress.html" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\..\..\Downloads\gunpla.jpg" />
