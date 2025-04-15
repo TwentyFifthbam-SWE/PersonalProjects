@@ -1,0 +1,54 @@
+
+body{
+
+    background-image: url(gunpla.jpg);
+    background-size: cover;
+    background-position: top;
+}
+#Banner {
+    text-align: center;
+}
+
+#Banner h1{
+
+    font-size: 48px;
+    font-family: 'Comic Sans MS';
+    color:  crimson;
+    margin: 20px auto;
+
+
+
+
+}
+#login_info{
+    text-align: left;
+}
+
+#Banner p{
+    font-size: 28px;
+    
+}
+
+
+#Menu h1{
+    text-align: center;
+    color: crimson;
+    text-decoration: underline;
+
+
+
+
+
+}
+
+#Menu h2{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+#Createacc{
+
+    text-align: right;
+    
+}
